@@ -1,5 +1,5 @@
 {
-  "name": "JDFinance",
+  "name": "vue-component",
   "version": "1.0.0",
   "description": "component with vue 2.5 and es6",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "es6",
     "component"
   ],
-  "author": "cuc_ygh@163.com",
+  "author": "oyshikang@163.com",
   "license": "MIT",
   "bugs": {
     "url": "https://gitlab.com/imooc/vuejs/issues"
